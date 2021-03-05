@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+:root {
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	font-size: 13px;
+	--cor-daniel: hsl(263, 55%, 52%);
+	--cor-jonathan: hsl(217, 19%, 35%);
+	--cor-patrick: hsl(219, 29%, 14%);
+	--cor-white: hsl(0, 0%, 100%);
+	--cor-light-gray: hsl(0, 0%, 81%);
+	--cor-light-grayish-blue: hsl(210, 46%, 95%);
+}
+
+body {
+	background-color: var(--cor-light-gray);
+}

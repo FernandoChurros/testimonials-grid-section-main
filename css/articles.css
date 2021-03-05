@@ -1,0 +1,40 @@
+.articles_people {
+	background-color: #8A0000FF;
+	border-radius: 10px;
+	padding: 2rem;
+	color: var(--cor-white);
+}
+
+.articles_people img {
+	height: 56px;
+	border-radius: 50%;
+}
+
+.articles_people p {
+	margin-top: 1rem;
+}
+
+.people_info {
+	display: flex;
+}
+
+.people_info div {
+	margin-left: .8rem;
+}
+
+.people_info h3 {
+	opacity: .5;
+}
+
+.articles_people.--info{
+	color: #000;
+}
+
+.people_quote {
+	opacity: .7;
+}
+
+.people_resume {
+	font-size: 1.5rem;
+	font-weight: 600;
+}
